@@ -24,3 +24,6 @@ Possibly prefix status message with something like `git` or `issue` or `github` 
 resulting in: 
 
 **[issue]** I just `opened` issue #226 on @ababsurdo's repo, `js-shiv`. Check it out: http://bit.ly/IqT6zt.
+
+## What Closed Source Means to Me
+Repo similar to nickdesaulniers/What-Open-Source-Means-To-Me but the opposite, where you list what your positive and negative thoughts are on closed source.
