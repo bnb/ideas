@@ -27,3 +27,9 @@ resulting in:
 
 ## What Closed Source Means to Me
 Repo similar to nickdesaulniers/What-Open-Source-Means-To-Me but the opposite, where you list what your positive and negative thoughts are on closed source.
+
+## Quote Engine
+Searchable quotes with community aspect. Search by type, site, person, etc. Made for fans.
+
+## Resume.tf
+Resumes for Team Fortress 2 competitive players
