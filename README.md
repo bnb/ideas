@@ -27,6 +27,10 @@ resulting in:
 
 **[issue]** I just `opened` issue #226 on @ababsurdo's repo, `js-shiv`. Check it out: http://bit.ly/IqT6zt.
 
+### Tent 0.4+ Schema Repo
+
+A repo similar to [npm](npmjs.org) where developers host a Tent 0.4+ schema on GitHub and it is published to the repository of schemas.
+
 ## Team Fortress 2
 
 ### Resume.tf
