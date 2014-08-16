@@ -43,6 +43,10 @@ Repo similar to nickdesaulniers/What-Open-Source-Means-To-Me but the opposite, w
 
 Update: Done! https://github.com/bnb/What-Closed-Source-Means-To-Me
 
+## School
+
+### HP 302/IS 124
+For my Honors Project, perhaps I could set up an agreement with the professor where the students can exchange time spent on OSS/pull requests sent on GitHub to C++ projects for 0.5% final grade score, for a max of 3-4%.
 
 ## Random 
 
