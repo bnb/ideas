@@ -31,6 +31,13 @@ resulting in:
 
 A repo similar to [npm](npmjs.org) where developers host a Tent 0.4+ schema on GitHub and it is published to the repository of schemas.
 
+### Firefox/Chrome Tent (Status) Notifications
+
+Notifications in your browser of new reposts, follows, mentions, unfollows, etc.
+
+### Tent Repost
+When you see an embedded Tweet on somedamnnewsblog.com, you can click "retweet" and you'll retweet it on Twitter. You can't do that with Tent, because there's not one place to repost from. Tent Repost would be a tiny site where you authenticate and then are able to click "Repost" on Status posts (or other posts?) on sites you're not authenticated with, such as somedamnnewsblog.com.
+
 ## Team Fortress 2
 
 ### Resume.tf
