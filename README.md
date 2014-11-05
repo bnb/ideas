@@ -45,7 +45,7 @@ Resumes for Team Fortress 2 competitive players
 
 ## Node.js App Ideas to Learn From
 
-### Pastebin-styke site
+### Pastebin-style site
 ...with beautify and uglify scripts, linters, markdown editing, and whatever else you think of.
 
 
