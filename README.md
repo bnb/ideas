@@ -43,6 +43,12 @@ When you see an embedded Tweet on somedamnnewsblog.com, you can click "retweet" 
 ### Resume.tf
 Resumes for Team Fortress 2 competitive players
 
+## Node.js App Ideas to Learn From
+
+### Pastebin-styke site
+...with beautify and uglify scripts, linters, markdown editing, and whatever else you think of.
+
+
 ## Open Source Software Theory
 
 ### [What Closed Source Means to Me](https://github.com/bnb/What-Closed-Source-Means-To-Me)
