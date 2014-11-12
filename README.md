@@ -48,6 +48,9 @@ Resumes for Team Fortress 2 competitive players
 ### Pastebin-style site
 ...with beautify and uglify scripts, linters, markdown editing, and whatever else you think of.
 
+### Pay with a post
+Pay with a post mentioning the product on one or more social networks.
+
 
 ## Open Source Software Theory
 
