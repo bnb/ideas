@@ -51,6 +51,9 @@ Resumes for Team Fortress 2 competitive players
 ### Pay with a post
 Pay with a post mentioning the product on one or more social networks.
 
+### Beta invitation system
+Signup with a beta invite.
+
 
 ## Open Source Software Theory
 
