@@ -54,6 +54,9 @@ Pay with a post mentioning the product on one or more social networks.
 ### Beta invitation system
 Signup with a beta invite.
 
+### GitHub/Twitter Inactive Username Checker
+Checks for GitHub/Twitter usernames, optionally matching a given term, that are inactive. While this doesn't really help on Twitter yet (they've got a policy that they don't reassign or delete inactive accounts), you can possibly get a good GitHub username with it.
+
 
 ## Open Source Software Theory
 
