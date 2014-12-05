@@ -57,6 +57,8 @@ Signup with a beta invite.
 ### GitHub/Twitter Inactive Username Checker
 Checks for GitHub/Twitter usernames, optionally matching a given term, that are inactive. While this doesn't really help on Twitter yet (they've got a policy that they don't reassign or delete inactive accounts), you can possibly get a good GitHub username with it.
 
+### Designer News Invite Family Tree
+Uses the Designer News API to fetch your invite family tree (who invited you, who invited them, etc.) and displays it nicely. Similar to that one for Dribbble.
 
 ## Open Source Software Theory
 
