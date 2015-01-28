@@ -33,6 +33,9 @@ A repo similar to [npm](npmjs.org) where developers host a Tent 0.4+ schema on G
 
 ### Firefox/Chrome Tent (Status) Notifications
 
+### Responsive Tent Bot
+This is a server-side robot that accepts commands via Status posts. Has conditional logic, command structures, etc. Could accept commands such as "Remind me," "?," and "?."
+
 Notifications in your browser of new reposts, follows, mentions, unfollows, etc.
 
 ### Tent Repost
