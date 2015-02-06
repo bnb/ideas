@@ -33,10 +33,11 @@ A repo similar to [npm](npmjs.org) where developers host a Tent 0.4+ schema on G
 
 ### Firefox/Chrome Tent (Status) Notifications
 
+Notifications in your browser of new reposts, follows, mentions, unfollows, etc.
+
 ### Responsive Tent Bot
 This is a server-side robot that accepts commands via Status posts. Has conditional logic, command structures, etc. Could accept commands such as "Remind me," "?," and "?."
 
-Notifications in your browser of new reposts, follows, mentions, unfollows, etc.
 
 ### Tent Repost
 When you see an embedded Tweet on somedamnnewsblog.com, you can click "retweet" and you'll retweet it on Twitter. You can't do that with Tent, because there's not one place to repost from. Tent Repost would be a tiny site where you authenticate and then are able to click "Repost" on Status posts (or other posts?) on sites you're not authenticated with, such as somedamnnewsblog.com.
