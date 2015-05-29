@@ -64,6 +64,9 @@ Checks for GitHub/Twitter usernames, optionally matching a given term, that are 
 ### Designer News Invite Family Tree
 Uses the Designer News API to fetch your invite family tree (who invited you, who invited them, etc.) and displays it nicely. Similar to that one for Dribbble.
 
+### Humans.json, an API for humans that contributed.
+Based off of the [me-api](https://github.com/danfang/me-api), Humans.json is Humans.txt as an API. Essentially, a collection of me-api elements, as well as organizational specific features.
+
 ## Open Source Software Theory
 
 ### [What Closed Source Means to Me](https://github.com/bnb/What-Closed-Source-Means-To-Me)
