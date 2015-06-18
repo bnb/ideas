@@ -2,6 +2,31 @@
 
 A repo of ideas for projects that I have. Feel free to use them in any way you want.
 
+## Node.js App Ideas to Learn From
+
+### Pastebin-style site
+...with beautify and uglify scripts, linters, markdown editing, and whatever else you think of.
+
+### Pay with a post
+Pay with a post mentioning the product on one or more social networks.
+
+### Beta invitation system
+Signup with a beta invite.
+
+
+### GitHub/Twitter Inactive Username Checker
+Checks for GitHub/Twitter usernames, optionally matching a given term, that are inactive. While this doesn't really help on Twitter yet (they've got a policy that they don't reassign or delete inactive accounts), you can possibly get a good GitHub username with it.
+
+### Designer News Invite Family Tree
+Uses the Designer News API to fetch your invite family tree (who invited you, who invited them, etc.) and displays it nicely. Similar to that one for Dribbble.
+
+### Humans.json, an API for humans that contributed.
+Based off of the [me-api](https://github.com/danfang/me-api), Humans.json is Humans.txt as an API. Essentially, a collection of me-api elements, as well as organizational specific features.
+
+### anchorify
+Add an anchor link to any element on a website, via anchorify as a proxy, to link directly to that specific element.
+
+
 ## Tent
 
 ### Jiffy Reactions
@@ -46,26 +71,6 @@ When you see an embedded Tweet on somedamnnewsblog.com, you can click "retweet" 
 
 ### Resume.tf
 Resumes for Team Fortress 2 competitive players
-
-## Node.js App Ideas to Learn From
-
-### Pastebin-style site
-...with beautify and uglify scripts, linters, markdown editing, and whatever else you think of.
-
-### Pay with a post
-Pay with a post mentioning the product on one or more social networks.
-
-### Beta invitation system
-Signup with a beta invite.
-
-### GitHub/Twitter Inactive Username Checker
-Checks for GitHub/Twitter usernames, optionally matching a given term, that are inactive. While this doesn't really help on Twitter yet (they've got a policy that they don't reassign or delete inactive accounts), you can possibly get a good GitHub username with it.
-
-### Designer News Invite Family Tree
-Uses the Designer News API to fetch your invite family tree (who invited you, who invited them, etc.) and displays it nicely. Similar to that one for Dribbble.
-
-### Humans.json, an API for humans that contributed.
-Based off of the [me-api](https://github.com/danfang/me-api), Humans.json is Humans.txt as an API. Essentially, a collection of me-api elements, as well as organizational specific features.
 
 ## Open Source Software Theory
 
