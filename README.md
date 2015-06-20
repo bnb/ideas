@@ -26,6 +26,8 @@ Based off of the [me-api](https://github.com/danfang/me-api), Humans.json is Hum
 ### anchorify
 Add an anchor link to any element on a website, via anchorify as a proxy, to link directly to that specific element.
 
+### WebTunnel
+Blog/website plugin that has the host list depenedencies of a post/page/section on their site, and returns a status of the content of the list - Still works, old version is used, message on where to read more about the dependncy, etc.
 
 ## Tent
 
