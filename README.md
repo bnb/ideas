@@ -29,6 +29,9 @@ Add an anchor link to any element on a website, via anchorify as a proxy, to lin
 ### WebTunnel
 Blog/website plugin that has the host list depenedencies of a post/page/section on their site, and returns a status of the content of the list - Still works, old version is used, message on where to read more about the dependncy, etc.
 
+### Link it forward
+Link it forward allows the HTML author to link to pages that don't currently exist, but _will exist in the future_. There will be a visual representation of the link that tells the reader if the link currently exists or not. Based off the idea of linking to the next post in a series of blog posts before it's published, so readers in the future can go to the next post without the author needing to edit the original.
+
 ## Tent
 
 ### Jiffy Reactions
