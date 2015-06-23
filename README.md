@@ -13,7 +13,6 @@ Pay with a post mentioning the product on one or more social networks.
 ### Beta invitation system
 Signup with a beta invite.
 
-
 ### GitHub/Twitter Inactive Username Checker
 Checks for GitHub/Twitter usernames, optionally matching a given term, that are inactive. While this doesn't really help on Twitter yet (they've got a policy that they don't reassign or delete inactive accounts), you can possibly get a good GitHub username with it.
 
@@ -21,7 +20,7 @@ Checks for GitHub/Twitter usernames, optionally matching a given term, that are 
 Uses the Designer News API to fetch your invite family tree (who invited you, who invited them, etc.) and displays it nicely. Similar to that one for Dribbble.
 
 ### Humans.json, an API for humans that contributed.
-Based off of the [me-api](https://github.com/danfang/me-api), Humans.json is Humans.txt as an API. Essentially, a collection of me-api elements, as well as organizational specific features.
+Based off of the [me-api](https://github.com/danfang/me-api), Humans.json is Humans.txt as an API. Essentially, a collection of me-api elements, as well as organizational-specific features.
 
 ### anchorify
 Add an anchor link to any element on a website, via anchorify as a proxy, to link directly to that specific element.
@@ -31,6 +30,9 @@ Blog/website plugin that has the host list depenedencies of a post/page/section 
 
 ### Link it forward
 Link it forward allows the HTML author to link to pages that don't currently exist, but _will exist in the future_. There will be a visual representation of the link that tells the reader if the link currently exists or not. Based off the idea of linking to the next post in a series of blog posts before it's published, so readers in the future can go to the next post without the author needing to edit the original.
+
+### Scaffolding.json
+A command line tool that builds the scaffolding of programming projects in plain English. Returns a json file to reference.
 
 ## Tent
 
