@@ -34,8 +34,11 @@ Link it forward allows the HTML author to link to pages that don't currently exi
 ### Scaffolding.json
 A command line tool that builds the scaffolding of programming projects in plain English. Returns a json file to reference.
 
-## WebPush
-Either an OSS self-hosted project or a hosted project, this is a Node/Express site that hooks into popular site's APIs and sends push notifications to the desktop via the Notifications API.
+### WebPush
+Either an OSS self-hosted project or a hosted project, this is a Node/Express site that hooks into popular site's APIs and sends push notifications to the desktop via the Notifications API.\
+
+### Note to Self (nts.me?)
+Leave a note to yourself, set to send a notification via a variety of media. It could send a tweet, email, sms, etc. to alert you given the parameters you specified.
 
 ## Tent
 
