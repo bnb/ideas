@@ -40,6 +40,9 @@ Either an OSS self-hosted project or a hosted project, this is a Node/Express si
 ### Note to Self (nts.me?)
 Leave a note to yourself, set to send a notification via a variety of media. It could send a tweet, email, sms, etc. to alert you given the parameters you specified.
 
+### 1-click GH installs from README.md
+Develop a button for OSS projects to put in their README.md files that either 1-click copies the install command or just installs the package.
+
 ## Tent
 
 ### Jiffy Reactions
