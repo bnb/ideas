@@ -41,7 +41,7 @@ Either an OSS self-hosted project or a hosted project, this is a Node/Express si
 Leave a note to yourself, set to send a notification via a variety of media. It could send a tweet, email, sms, etc. to alert you given the parameters you specified.
 
 ### 1-click GH installs from README.md
-Develop a button for OSS projects to put in their README.md files that either 1-click copies the install command or just installs the package.
+Develop a button for OSS projects to put in their README.md files that either 1-click copies the install command or just installs the package. This could be plain HTML (piggybacking off the C&P from the GitHub sidebar?) or a browser extension.
 
 ## Tent
 
