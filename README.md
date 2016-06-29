@@ -6,41 +6,41 @@ A repo of ideas for projects that I have. Feel free to use them in any way you w
 ## Node.js App Ideas to Learn From
 
 ### Pay with a post
-![Good First Project](https://img.shields.io/badge/Level-Good%20First%20Project-dddddd.svg)
+![Good First Project](https://img.shields.io/badge/Level-Good%20First%20Project-43fd94.svg)
 
 Pay with a post mentioning the product on one or more social networks.
 
 ### Beta invitation drop-in module 
-![Good First Project](https://img.shields.io/badge/Level-Good%20First%20Project-dddddd.svg)
+![Good First Project](https://img.shields.io/badge/Level-Good%20First%20Project-43fd94.svg)
 
 Signup with a beta invite, generated, sent, and validated by the module.
 
 
 ### GitHub/Twitter Inactive Username Checker
-![Good First Project](https://img.shields.io/badge/Level-Good%20First%20Project-dddddd.svg)
+![Good First Project](https://img.shields.io/badge/Level-Good%20First%20Project-43fd94.svg)
 
 Checks for GitHub/Twitter usernames, optionally matching a given term, that are inactive. While this doesn't really help on Twitter yet (they've got a policy that they don't reassign or delete inactive accounts), you can possibly get a good GitHub username with it.
 
 
 ### Avatar selector on GH-pages (Gravatar alternative)
-![Good First Project](https://img.shields.io/badge/Level-Good%20First%20Project-dddddd.svg)
+![Good First Project](https://img.shields.io/badge/Level-Good%20First%20Project-43fd94.svg)
 
 A Node script to build a site that allows the user to select an avatar from a GitHub Pages URL via Query String. I want my main avatar? I can link or go to `bnb.github.io/avatars/index.html?avatar=1`. There could be multiple linking paths (`?avatar=1`, `?avatar=main`, `?avatar=current`, `?avatar=first`, `?a=1`, etc.) and other features.
 
 ### Anchorify anything
-![Good First Project](https://img.shields.io/badge/Level-Good%20First%20Project-dddddd.svg)
+![Good First Project](https://img.shields.io/badge/Level-Good%20First%20Project-43fd94.svg)
 
 Add an anchor link to any element on a website, via anchorify as a proxy, to link directly to that specific element.
 
 
 ### Link it forward
-![Good First Project](https://img.shields.io/badge/Level-Good%20First%20Project-dddddd.svg)
+![Good First Project](https://img.shields.io/badge/Level-Good%20First%20Project-43fd94.svg)
 
 Link it forward allows the HTML author to link to pages that don't currently exist, but _will exist in the future_. There will be a visual representation of the link that tells the reader if the link currently exists or not. Based off the idea of linking to the next post in a series of blog posts before it's published, so readers in the future can go to the next post without the author needing to edit the original.
 
 
 ### 1-click npm installs from README.md
-![Good First Project](https://img.shields.io/badge/Level-Good%20First%20Project-dddddd.svg)
+![Good First Project](https://img.shields.io/badge/Level-Good%20First%20Project-43fd94.svg)
 
 No idea if this is even possible. Develop a button for OSS projects to put in their README.md files that either 1-click copies the install command or just installs the package. This could be plain HTML (piggybacking off the C&P from the GitHub sidebar?) or a browser extension. 
 
